@@ -16,6 +16,7 @@ The Track Suggester program utilizes a 5 questions survey to generate a suggeste
 * Input name and answers to questions
 * Click submit
 * A suggested programming learning path will be generated!
+* Project can also be viewed at: jeemb.github.io/track-suggester 
 
 ## Known Bugs
 
